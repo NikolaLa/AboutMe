@@ -1,3 +1,6 @@
+> [!NOTE]
+> Here is a sample of notes I take in my learning process
+
 # Setting up a basic project with Playwright
 ## Playwright, VS Code, Python, KDE NEON - setting a basic project in a virtual environment
 1. Open project in VS Code
