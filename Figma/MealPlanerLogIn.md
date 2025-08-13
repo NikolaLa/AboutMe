@@ -1,5 +1,5 @@
 > [!NOTE]
-> Created in Figma for Testing/Backend purpose - Application does not exist
+> Personal project created in Figma for Testing/Backend purpose - Application does not exist yet
 
 # Log in panel
 ## Decription
