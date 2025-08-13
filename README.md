@@ -9,11 +9,11 @@ If there are clear instructions exist, I follow them, if not, I’m resourceful 
 - **Programming** - can read complex projects and reverse engineer them to figure out how they work in languages like Python, Java, and others and can write simple programs 
 - **Database** - know SQL can use/create some databases, Basic knowledge
 - **Devops** - basic knowledge, learning to set up containers in Docker for testing purposes
-- **Documentation writing skills** - In my current job as a manual tester, I report defects, write instructions on how to test some features, and rewrite Test cases. In my personal project, I plan my work using various methods, such as using UML diagram
+- **Documentation writing skills** - In my current job as a manual tester, I report defects, write instructions on how to test some features, and rewrite Test cases. In my personal project, I plan my work using various methods, such as using a UML diagram
   
 # Tools I use or used, but no problem to relearn
 - **Jira, Confluence** - used for personal project, Professional used too
-- **Playwright** - Learning automation
+- **Playwright** - Learning automation from the course/documentation trail and error
 - **Git** - in Terminal/PowerShell or GUI does not matter to me if on Windows or Linux, in my previous work, I used it professionally, now I use it for personal projects
 - **VS code** - for personal project
 - **Excel, Word, Libre Office, Latex** - personal and commercial use
