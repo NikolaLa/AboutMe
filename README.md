@@ -14,13 +14,13 @@ If there are clear instructions exist, I follow them, if not, I’m resourceful 
    
 # Tools I use or used, but no problem to relearn
 - **Jira, Confluence** - used for personal project, Professional used too
-- **Playwright** - Learning automation from the course/documentation trial and error
+- **Playwright** - Learning automation from the course/documentation, trial and error
 - **Git** - in Terminal/PowerShell or GUI does not matter to me if on Windows or Linux, in my previous work, I used it professionally, now I use it for personal projects
 - **VS code** - for personal project
 - **Excel, Word, Libre Office, Latex** - personal and commercial use
 - **Figma** - Basic knowledge to convey an idea
 - **draw.io** - whiteboard, practising drawing other diagram types
-- **Blender** - Used in my previous job, now for a  personal project
+- **Blender** - Used in my previous job as a 3D artist/animator, now for a  personal project
 - **Unity** - used in my previous job
 - **Unreal Engine** - for personal project, basic knowledge can put various templates/elements together
 
