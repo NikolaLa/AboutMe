@@ -19,9 +19,11 @@ If there are clear instructions exist, I follow them, if not, I’m resourceful 
 - **VS code** - for personal project
 - **Excel, Word, Libre Office, Latex** - personal and commercial use
 - **Figma** - Basic knowledge to convey an idea
+- **draw.io** - whiteboard, practising drawing other diagram types
 - **Blender** - Used in my previous job, now for a  personal project
 - **Unity** - used in my previous job
-- **Unreal Engine** - for personal project, basic knowledge can put various templates/elements together 
+- **Unreal Engine** - for personal project, basic knowledge can put various templates/elements together
+
   
 # Portfolio Link
 ## certification link
