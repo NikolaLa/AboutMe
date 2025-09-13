@@ -6,8 +6,8 @@ If there are clear instructions exist, I follow them, if not, I’m resourceful 
 
 # Skills
 - **Testing** - manual testing, planning own work, exploratory testing, writing some documentation, can do basic automation test
-- **Programming** - can read complex projects and reverse engineer them to figure out how they work in languages like Python, Java, and others and can write simple programs 
-- **Database** - know SQL can use/create some databases, Basic knowledge
+- **Programming** - can read complex projects and reverse engineer them to figure out how they work in languages like Python, Java, and others, currently using Python/Django for my pet project
+- **Database** - know SQL, can use/create some databases and connect it to Backend, can create ERD Diagrams to show and plan out an idea and generate tables, currently use PostgreSQL for my pet project
 - **Devops** - basic knowledge, learning to set up containers in Docker for testing purposes
 - **Documentation writing skills** - In my current job as a manual tester, I report defects, write instructions on how to test some features, and rewrite Test cases. In my personal project, I plan my work using various methods, such as using a UML diagram
 - **AI** - can use for my project, doing courses
